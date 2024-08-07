@@ -6,7 +6,7 @@ I worked as a Developer at [Redd Summit Advisors](https://www.reddsummit.com/), 
 - Javascript
 - C#
 - Python
-- GIS\
+- GIS
 
 
 Check out my [portfolio](https://keikepono.github.io)
